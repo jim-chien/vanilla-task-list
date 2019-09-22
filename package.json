@@ -1,0 +1,14 @@
+{
+  "name": "tasklistvanilla",
+  "version": "1.0.0",
+  "description": "Task list in vanilla Javascript",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jim Chien <jim_chien_br@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
